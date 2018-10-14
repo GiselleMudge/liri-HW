@@ -1,0 +1,31 @@
+{
+  "name": "liri-HW",
+  "version": "1.0.0",
+  "description": "Liri Homwork",
+  "main": "keys.js",
+  "dependencies": {
+    "bandsintown": "^1.0.1",
+    "chalk": "^2.4.1",
+    "dotenv": "^6.1.0",
+    "fs": "0.0.1-security",
+    "moment": "^2.22.2",
+    "node-cmd": "^3.0.0",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiselleMudge/liri-HW.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GiselleMudge/liri-HW/issues"
+  },
+  "homepage": "https://github.com/GiselleMudge/liri-HW#readme"
+}
